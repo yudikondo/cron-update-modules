@@ -4,7 +4,7 @@ class ISC_UPGRADE_MODULES {
     public $_checkout_modules = '../modules/checkout/';
     public $_shipping_modules = '../modules/shipping/';
 
-    public $_remote_server           = 'https://www.server.com.br';
+    public $_remote_server           = 'https://www.server.com';
     public $_remote_checkout_modules = '/modules/checkout/';
     public $_remote_shipping_modules = '/modules/shipping/';
 
