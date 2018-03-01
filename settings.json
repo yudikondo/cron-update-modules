@@ -1,0 +1,6 @@
+{
+    "name": "Mercado Pago",
+    "version": 1.1,
+    "last_update": "28022018",
+    "local": "modules/checkout/mercadopago/"
+}
